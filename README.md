@@ -24,7 +24,7 @@ Three specialized AI agents collaborate in sequence:
 
 A full markdown lead report saved automatically to a `.md` file.
 
-![Final lead report output](Final%20Report.png)
+![Final lead report output](FInal%20Report.png)
 
 ## Stack
 
